@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amod 
-- 👀 I’m interested in Cybersecurity and Privacy Enthusiast
+- 👀 I’m a Privacy Enthusiast
 - 🌱 I’m currently learning Big Data Computing , Data Mining and Web Development
 - 💞️ I’m looking to collaborate on any Cybersecurity project
 - 🎸 Stay tuned for more projects
